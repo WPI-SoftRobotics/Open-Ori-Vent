@@ -17,7 +17,7 @@ using these instructions! For the current designs, laser cutters and 3d
 printers are necessary, though these parts could be cut/printed
 elsewhere and then mailed to you for assemble.
 
-## Publish
+## Citation:
 
 Ori-Vent: Design and Prototyping of Accessible and Portable Origami-Inspired Ventilators
 
