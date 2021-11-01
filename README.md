@@ -29,7 +29,7 @@ Soft Robotics Lab
 Worcester Polytechnic Institute
 
 ## Materials and methods
-See tutorials in Wiki. Or download ReadMe.docx or ReadMe.pdf
+See tutorials in our project [Wiki](https://github.com/WPI-SoftRobotics/Open-Ori-Vent/wiki). Or download ReadMe.docx or ReadMe.pdf
 
 
 ## Download 
