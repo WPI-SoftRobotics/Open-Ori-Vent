@@ -24,7 +24,7 @@ Ori-Vent: Design and Prototyping of Accessible and Portable Origami-Inspired Ven
 Please cite: 
 > Aihaitijiang, Abudula, et al. "Ori-Vent: Design and Prototyping of Accessible and Portable Origami-Inspired Ventilators." *International Symposium on Experimental Robotics.* Springer, Cham, 2020.
 
-Soft Robotics Lab
+WPI Soft Robotics Lab (softrobotics.wpi.edu)
 
 Worcester Polytechnic Institute
 
