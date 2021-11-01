@@ -8,44 +8,8 @@ Soft Robotics Lab
 
 Worcester Polytechnic Institute
 
-Table of Contents
 
-**Introduction**
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-2
-
-**Part 1:** Materials
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-2
-
-**Part 2:** Printed Parts List
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-3
-
-**Part 3:** Building the Bellows
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-4
-
-**Part 4:** Sealing Bellows
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-5
-
-**Part 5:** Wiring Diagram
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-6
-
-**Part 6:** Assembly
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-7
-
-**Part 7:** Download Section
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--7
-
-**Part 8:** Video
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-7
-
-**Introduction:**
+## Introduction:
 
 The COVID-19 pandemic is responsible for hundreds of thousands of deaths
 worldwide and remains a challenge that humanity must still overcome. As
@@ -64,7 +28,7 @@ using these instructions! For the current designs, laser cutters and 3d
 printers are necessary, though these parts could be cut/printed
 elsewhere and then mailed to you for assemble.
 
-**Part 1:** Materials & Orders
+## Part 1: Materials & Orders
 
 The initial prototype uses inexpensive materials and is easy to
 manufacture. It is not necessary to buy or order same product as listed
@@ -119,20 +83,19 @@ Others:
 [Order](https://www.amazon.com/Triple-Fish-Test-Leader-Fishing/dp/B01BZPPDJG/ref=sr_1_4?dchild=1&keywords=fishing+wire&qid=1611513070&refinements=p_36%3A-300&rnid=386589011&sr=8-4)
 (Amazon)
 
-> 1 x Rubber Tube \$8.59
-> [Order](https://www.amazon.com/Nydotd-Natural-Slingshot-Catapult-Surgical/dp/B07DL6JJZ2/ref=sr_1_6?dchild=1&keywords=Natural+Latex+Rubber+Tubing&qid=1611513432&sr=8-6)
-> (Amazon)
+1 x Rubber Tube \$8.59
+[Order](https://www.amazon.com/Nydotd-Natural-Slingshot-Catapult-Surgical/dp/B07DL6JJZ2/ref=sr_1_6?dchild=1&keywords=Natural+Latex+Rubber+Tubing&qid=1611513432&sr=8-6)
+(Amazon)
 
 \* Optional Part: Order if you want to make origami bellows.
 
-**Part 2: Printed Part List**
+## Part 2: Printed Part List
 
-Files: Open Source Ori-Vent\\Printed Parts\\.STL & .SLDPRT
+Files: Open-Ori-Vent/Printed Parts/ .STL & .SLDPRT
 
 Here is a list of all the parts that need to be printed:
 
-![](media/image2.png){width="5.877083333333333in"
-height="3.7291666666666665in"}
+[[images/printed_part_list.png]]
 
 Print Settings
 
@@ -144,27 +107,27 @@ Print Settings
 >
 > Filament material: PLA
 
-**Part 3: Building the Bellows**
+## Part 3: Building the Bellows
 
-Origami Bellows:
+### Origami Bellows:
 
-Files: Open Source Ori-Vent\\Origami_Laser Cut\\.DXF
+Files: Open-Ori-Vent/Origami_Laser Cut/ .DXF
 
 Quantity: 3 x Origami Pattern
 
-![](media/image3.png){width="1.7194444444444446in"
-height="3.107638888888889in"}Material: PET (Polyethylene Terephthalate)
+Material: PET (Polyethylene Terephthalate) 
 or any other low-cost and accessible plastic
 
 Note: We provide two different length of origami patterns (18 inch and
 9)
 
-3D Printed Bellows
+[[images/bellows_pattern_for_laser_cutting.png]]
+
+### 3D Printed Bellows
 
 Files: Open Source Ori-Vent \\ 3D Printed Bellows \\ .SLDPRT:
 
-![](media/image4.png){width="3.2402777777777776in"
-height="1.2465277777777777in"}
+[[images/bellows_for_3d_printing.png]]
 
 Print Settings
 
@@ -174,79 +137,61 @@ Print Settings
 >
 > Filament material: NinjaFlex
 
-**Part 4: Sealing Origami Bellows**
+## Part 4: Sealing Origami Bellows
 
 To seal the holes within the origami structure, we tested two different
 materials and sealing processes. We recommend sealing with bagging film.
 
-1)  Origami Bellows Sealing Process (recommended): You can glue (E6000
+*  Origami Bellows Sealing Process (recommended): You can glue (E6000
     flexible glue) the Stretchlon200 bagging film to the inner surface
     of the assembled origami module before folding completely.
 
-![](media/image5.png){width="0.32034339457567806in"
-height="0.39480533683289587in"}
+    [[images/sealing_method_1.png]]
 
-![](media/image6.png){width="0.2951388888888889in"
-height="0.7298611111111111in"}![](media/image7.png){width="1.211111111111111in"
-height="1.6145833333333333in"}![](media/image8.png){width="0.9298611111111111in"
-height="1.6583333333333334in"}![](media/image9.png){width="1.1472222222222221in"
-height="1.8in"}![](media/image10.png){width="0.32916666666666666in"
-height="0.40555555555555556in"}![](media/image11.png){width="0.32972331583552056in"
-height="0.4063659230096238in"}
-
-![](media/image6.png){width="0.2957688101487314in"
-height="0.7300918635170603in"}
-
-2)  Origami Bellows Sealing Process (Optional): You can glue multiple
+*  Origami Bellows Sealing Process (Optional): You can glue multiple
     pieces of Nitrile exam glove onto the inner surface of the unfolded
     origami module using E6000 flexible glue. Lastly, assemble all 3
     origami pieces and glue attached sections.
 
-![](media/image12.png){width="5.1168832020997375in"
-height="3.024977034120735in"}
+    [[images/sealing_method_2.png]]
 
-**Part 5: Wiring Diagram**
+## Part 5: Wiring Diagram
 
 Minimal wiring diagram for connecting a microcontroller to a motor
 driver. You can use breadboard (optional) or solder pins on the motor
 driver.
 
-Files: Open Source Ori-Vent\\Code&Data\\Arduino\\.ino
+Files: Open-Ori-Vent/Code&Data/Arduino/ .ino
 
-![](media/image13.png){width="6.259739720034996in"
-height="4.227248468941382in"}
+[[images/wiring_diagram.png]]
 
 Micro Controller Motor Driver
 
-GND \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\> GND
+GND ----------------------------> GND
 
-5V \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\> VCC
+5V ----------------------------> VCC
 
-D3 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\> AIN1
+D3 ----------------------------> AIN1
 
-D5 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\> AIN2
+D5 ----------------------------> AIN2
 
-**\
-**
-
-**Part 6: Assembly**
+## Part 6: Assembly
 
 Assemble printed parts from Part 1 and sealed/3D printed bellows.
 
-![](media/image14.png){width="5.859547244094488in"
-height="4.168830927384077in"}
+[[images/assembly.png]]
 
 ①-②Attach the motor and mount to the 3d printed part. ③Mount spool. ④-⑥
 Origami/3D printed bellows. ⑦Back cover. ⑧ Wraps the cables around a
 spool and attached to the other end. ⑨Holder. ⑩Nuts. ⑪Mount stand.
 ⑫-⑮Assemble air flow tube (optional).
 
-**Part 7: Download Section**
+## Part 7: Download Section
 
 Download .zip file (Include all Steps)
 
-**Part 8: Video**
+## Part 8: Video
 
-Files: Open Source Ori-Vent \\ Video \\ .mp4
+Files: Open-Ori-Vent/Video/Ori_Vent Design and Prototyping of Accessible and Portable Origami_Inspired Ventilators -Final.mp4
 
 YouTube Link:
