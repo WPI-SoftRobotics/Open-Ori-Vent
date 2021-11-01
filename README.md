@@ -1,7 +1,7 @@
-![](media/image1.png){width="2.7708453630796153in"
-height="1.420300743657043in"}**Open-Source Project**
+# Open-Ori-Vent: Portable Origami-Inspired Ventilators
 
-**Ori-Vent:** Design and Prototyping of Accessible and Portable
+
+Design and Prototyping of Accessible and Portable
 Origami-Inspired Ventilators
 
 Soft Robotics Lab
