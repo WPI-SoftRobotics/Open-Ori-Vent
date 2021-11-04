@@ -38,6 +38,7 @@ git clone the whole project or download .zip file (Include all Steps)
 
 ## Video
 
-Files: Open-Ori-Vent/Video/Ori_Vent Design and Prototyping of Accessible and Portable Origami_Inspired Ventilators -Final.mp4
+See here: [https://youtu.be/L8fc51l0Wh4](https://youtu.be/L8fc51l0Wh4)
 
+## Disclaimer
 
