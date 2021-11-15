@@ -46,7 +46,7 @@ WPI Soft Robotics Lab [softrobotics.wpi.edu](https://softrobotics.wpi.edu/)
 Worcester Polytechnic Institute
 
 ## Materials and methods
-See tutorials in our project [Wiki](https://github.com/WPI-SoftRobotics/Open-Ori-Vent/wiki). Or download ReadMe.docx or ReadMe.pdf
+See tutorials in our project [Wiki](https://github.com/WPI-SoftRobotics/Open-Ori-Vent/wiki). Or download ReadMe.pdf
 
 
 ## Download 
