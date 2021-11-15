@@ -11,7 +11,7 @@ automated ventilator that is:
 
 -   Simple, Lightweight, Easy-to fabricate
 
-As an open-source project, we will made public all the CAD files as well
+As an open-source project, we are sharing all the CAD files as well
 as the software. We hope that you can also make your own ventilator
 using these instructions! For the current designs, laser cutters and 3d
 printers are necessary, though these parts could be cut/printed
